@@ -1,0 +1,10 @@
+***INPUT***
+
+Enter x0,y0,h,xn:
+0 1 0.02 0.1
+
+
+***OUTPUT***
+
+Result is:
+x=0.120000 y=0.894298

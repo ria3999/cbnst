@@ -1,0 +1,12 @@
+
+***INPUT***
+
+Enter value of n
+6
+Enter x0 and xn
+0 1
+
+
+***OUTPUT***
+
+Result is 0.785398

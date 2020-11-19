@@ -1,0 +1,23 @@
+
+                                ***INPUT***
+Enter the limit:5
+
+Enter the elements of x and y:
+5 150
+7 392
+11 1452
+13 2366
+17 5202
+
+The table entered is:
+5.000  150.000
+7.000  392.000
+11.000  1452.000
+13.000  2366.000
+17.000  5202.000
+
+Enter the value of x to find y:9
+
+
+                                ***OUTPUT***
+The value of y at x=9.000 is 810.000

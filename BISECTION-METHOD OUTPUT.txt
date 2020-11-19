@@ -1,0 +1,11 @@
+
+***INPUT***
+
+Enter interval
+1
+2
+
+
+***OUTPUT***
+
+The root is 1.328278

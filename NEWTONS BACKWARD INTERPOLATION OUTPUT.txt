@@ -1,0 +1,32 @@
+
+
+***INPUT***
+
+Enter n
+5
+Enter value of x:
+1891
+1901
+1911
+1921
+1931
+Enter value of y:
+Enter y[0][0] 46
+Enter y[1][0] 66
+Enter y[2][0] 81
+Enter y[3][0] 93
+Enter y[4][0] 101
+Backward difference table:
+46.00
+66.00 20.00
+81.00 15.00 -5.00
+93.00 12.00 -3.00 2.00
+101.00 8.00 -4.00 -1.00 -3.00
+Enter value of which you want the answer:
+1925
+
+
+***OUTPUT***
+
+
+ Value at 1925.000000 is 96.836800

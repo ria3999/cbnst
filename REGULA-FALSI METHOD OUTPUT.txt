@@ -1,0 +1,10 @@
+***INPUT***
+
+Enter intervals a and b
+3
+4
+
+
+***OUTPUT***
+
+The required root is 3.789278

@@ -1,0 +1,9 @@
+***INPUT***
+
+Enter the initial approximation2.7
+
+
+***OUTPUT***
+
+
+the required root is 2.740646

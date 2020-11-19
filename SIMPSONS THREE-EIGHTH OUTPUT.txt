@@ -1,0 +1,11 @@
+***INPUT***
+
+Enter value of x0,xn,n
+0
+1
+6
+
+
+***OUTPUT***
+
+Result is : 0.785396

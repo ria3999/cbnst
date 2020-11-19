@@ -1,0 +1,11 @@
+***INPUT***
+
+enter coefficients a,b and c
+1
+-7
+12
+
+
+***OUTPUT***
+
+root1 is 4.000000 and root2 is 3.000000
